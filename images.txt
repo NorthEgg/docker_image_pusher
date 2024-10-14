@@ -1,4 +1,17 @@
 nginx
+portainer/portainer-ee:latest
+vaultwarden/server:latest
+minio/minio:latest
+superng6/qbittorrent:latest
+b3log/siyuan:latest
+zerotier/zerotier-synology:latest
+v2fly/v2fly-core:latest
+btpanel/baota:latest
+luolongfei/freenom:latest
+allanpk716/chinesesubfinder:latest
+messense/aliyundrive-webdav:latest
+northegg/nas-tools:latest
+adolfintel/speedtest:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
