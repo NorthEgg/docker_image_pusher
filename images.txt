@@ -1,4 +1,5 @@
 nginx
+emscripten/emsdk:latest
 portainer/portainer-ee:latest
 vaultwarden/server:latest
 minio/minio:latest
