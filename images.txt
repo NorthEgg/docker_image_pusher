@@ -19,6 +19,9 @@ adolfintel/speedtest:latest
 weishaw/sub2api:latest
 postgres:18-alpine
 redis:8-alpine
+calciumion/new-api:latest
+redis:latest
+postgres:15
 #支持私库
 ghcr.io/openclaw/openclaw:latest
 #支持指定架构
