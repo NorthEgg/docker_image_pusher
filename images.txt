@@ -1,7 +1,7 @@
-nginx
-emscripten/emsdk:latest
+#nginx
+#emscripten/emsdk:latest
 portainer/portainer-ee:latest
-portainer/portainer-docker-extension:2.33.3
+#portainer/portainer-docker-extension:2.33.3
 vaultwarden/server:latest
 minio/minio:latest
 superng6/qbittorrent:latest
@@ -16,13 +16,10 @@ messense/aliyundrive-webdav:latest
 adolfintel/speedtest:latest
 #whyour/qinglong:latest
 #donalffons/opencascade.js
-weishaw/sub2api:latest
-postgres:18-alpine
-redis:8-alpine
 calciumion/new-api:latest
 redis:latest
 postgres:15
 #支持私库
-ghcr.io/openclaw/openclaw:latest
+#ghcr.io/openclaw/openclaw:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
